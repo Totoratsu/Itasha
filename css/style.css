@@ -1,0 +1,31 @@
+section, footer{
+    padding: 3%;
+}
+
+img{
+    width: 100%;
+    height: auto;
+}
+
+.rosadito{
+    background-color: #F781F3;
+}
+
+.list-item{
+    display: inline-block;
+}
+
+.modelos{
+    background-color: #1C1C1C;
+}
+    .modelos h2{
+        color: white;
+    }
+
+.carta{
+    background-color: white;
+    padding: 0%;
+}
+    .carta:hover{
+        background-color: #F7819F;
+    }
